@@ -1,7 +1,7 @@
 def check_vowels():
     # Código a implementar utilizando input.
-    nombre = input("Ingrese nombre: ").lower()
-    print (nombre)
+    nombre = input("")
+    print (nombre).lower()
 
     print ("")
 
