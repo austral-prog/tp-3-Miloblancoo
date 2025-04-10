@@ -3,8 +3,6 @@ def check_vowels():
     nombre = input("Ingrese nombre: ")
     print (nombre)
 
-    print ("")
-
     print ( "contiene a:", "a" in nombre or "A" in nombre)
     print ( "contiene e:", "e" in nombre or "E" in nombre)
     print ( "contiene i:", "i" in nombre or "I" in nombre)
